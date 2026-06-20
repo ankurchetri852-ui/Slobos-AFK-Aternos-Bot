@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": " DarkDeathSMP.aternos.me",
-    "port": 45347,
+    "ip": "DarkDeathSMP.aternos.me",
+    "port":45347,
     "version": "",
     "try-creative": false
   },
